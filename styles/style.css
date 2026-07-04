@@ -257,17 +257,16 @@ ol {
   font-family: inherit;
   font-size: 18px;
   font-weight: 700;
+  min-height: 34px;
 }
 
 .search-form__submit-button {
   width: 194px;
-  min-height: 34px;
   align-self: end;
 }
 
 .more-button {
   width: 100%;
-  min-height: 34px;
 }
 
 .button:hover {
